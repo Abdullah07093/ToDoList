@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "b7a8xg02QBlLtPznGQ80oGjnMeelrKwd83mUWzJW3chPxy2LexOEbLdEt9Ify/g46p21y6b9zay26t6AugL/bg==",
+  "success": true,
+  "projectFilePath": "/Users/abdullah/Desktop/TodoApp/TodoDemo/TodoDemo.csproj",
+  "expectedPackageFiles": [
+    "/Users/abdullah/.nuget/packages/dapper/2.0.123/dapper.2.0.123.nupkg.sha512",
+    "/Users/abdullah/.nuget/packages/microsoft.extensions.configuration.abstractions/7.0.0/microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "/Users/abdullah/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.0/microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "/Users/abdullah/.nuget/packages/microsoft.extensions.primitives/7.0.0/microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "/Users/abdullah/.nuget/packages/npgsql/7.0.4/npgsql.7.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
